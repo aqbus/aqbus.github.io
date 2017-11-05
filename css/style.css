@@ -1,0 +1,7 @@
+﻿body,html{padding: 0;margin: 0;}
+.player{position:relative;background:#000000;position:relative;z-index:120;}
+#play{overflow:hidden;position:relative;}
+#adv{z-index:130;position:relative;width:100%;height:100%;;margin:0 auto;margin-top:-<?php echo(intval($height)-10);?>px;overflow:hidden;}
+#player{overflow:hidden}
+#adbg{background:#000;width:100%;position:absolute;left:0;top:0;z-index:88;color:#fff;text-align:right;font-size:16px;}
+#a1{width:100%; height:100%;}
